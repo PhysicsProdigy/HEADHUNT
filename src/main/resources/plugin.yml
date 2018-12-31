@@ -1,0 +1,6 @@
+name: HeadHunt
+version: ${project.version}
+main: me.physicsprodigy.headhunt.HeadHunt
+api-version: 1.13
+authors: [Pine_O_Matic, PhysicsProdigy]
+description: Our little plugin/new gamemode
